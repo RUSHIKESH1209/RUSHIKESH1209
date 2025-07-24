@@ -1,3 +1,16 @@
+<h1 align="center">Hey there, I'm Rushikesh 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+I'm+Rushikesh!;Welcome+to+my+GitHub+space!&font=Fira+Code&center=true&width=500&height=50&color=1DB954&pause=1000&size=24" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200" alt="waving hand robot" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rushikesh-count/count.svg" />
+</p>
 
 <h1 align="center">Hey there, I'm Rushikesh 👋</h1>
 <h3 align="center">MERN Stack Developer | AI Agent Builder | Competitive programmer ⚡</h3>
