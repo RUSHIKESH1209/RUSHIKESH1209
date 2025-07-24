@@ -10,19 +10,22 @@
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-chintkuntwar-a74498290/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>&nbsp;
   <a href="https://www.instagram.com/rushikesh_1_5/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" />
   </a>&nbsp;
   <a href="mailto:rushikeshchintkuntwar123456@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" />
   </a>&nbsp;
   <a href="https://www.codechef.com/users/rushikesh94" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codechef-a-global-competitive-programming-platform-logo-color-tal-revivo.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codechef_logo.svg" width="40" height="40" />
   </a>&nbsp;
   <a href="https://leetcode.com/u/rushikeshchintkuntwar123456/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/rushikeshchintkuntwar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" />
   </a>
 </p>
 
