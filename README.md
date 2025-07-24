@@ -44,13 +44,15 @@
 
 ---
 
-### 🤖 AI + MERN Projects
-- 🔥 Integrated AI agents using OpenAI, LangChain & Pinecone
-- 💬 Built smart chat interfaces with Socket.IO & NLP
-- 🧠 Created AI workflows for form filling, summarization & QnA
-- 🚀 Deployed apps using Vercel, Railway, and Docker
+### ⚙️ MERN + AI Projects
 
-- - 🔗 [**Nexable**](https://github.com/RUSHIKESH1209/Nexable)  
+- 🔧 Built full-stack web apps with the **MERN stack** — MongoDB, Express, React, Node.js — because vanilla is boring 😎
+- 🤖 Integrated powerful **AI agents** using OpenAI, LangChain & Pinecone to automate tasks and enhance user experience
+- 💬 Crafted real-time chat apps with **Socket.IO**, complete with typing indicators, seen status, and smart NLP replies
+- 🚀 Deployed projects with ease using **Vercel**, **Render**, **Railway**, and even threw in some **Docker magic**
+
+
+- 🔗 [**Nexable**](https://github.com/RUSHIKESH1209/Nexable)  
   A LinkedIn-style AI-powered social platform with real-time chat (Socket.IO), smart user suggestions, dynamic search, and a clean UI using Tailwind CSS + Framer Motion.
 
 - 🛍️ [**Music-Player**](https://github.com/RUSHIKESH1209/music-player)  
@@ -68,9 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIKESH1209&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RUSHIKESH1209&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUSHIKESH1209&theme=tokyonight" alt="GitHub Profile Summary" />
