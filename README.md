@@ -19,13 +19,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" />
   </a>&nbsp;
   <a href="https://www.codechef.com/users/rushikesh94" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codechef_logo.svg" width="40" height="40" />
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" width="40" height="40" />
   </a>&nbsp;
   <a href="https://leetcode.com/u/rushikeshchintkuntwar123456/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.hackerrank.com/rushikeshchintkuntwar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" />
   </a>
 </p>
 
