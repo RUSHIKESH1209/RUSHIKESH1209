@@ -1,28 +1,32 @@
-## Hi there 👋
+
 <h1 align="center">Hey there, I'm Rushikesh 👋</h1>
-<h3 align="center">MERN Stack Developer | AI Agent Builder | Full-Stack Explorer ⚡</h3>
+<h3 align="center">MERN Stack Developer | AI Agent Builder | Competitive programmer ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rushikesh123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
-
 ### 🌐 Connect with me
+
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rushikesh-chintkuntwar-a74498290/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/rushikesh_1_5/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="mailto:rushikeshchintkuntwar123456@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/rushikesh94" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/rushikeshchintkuntwar123456/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
@@ -34,12 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40"/>
 </p>
 
 ---
@@ -50,39 +51,32 @@
 - 🧠 Created AI workflows for form filling, summarization & QnA
 - 🚀 Deployed apps using Vercel, Railway, and Docker
 
----
+- - 🔗 [**Nexable**](https://github.com/RUSHIKESH1209/Nexable)  
+  A LinkedIn-style AI-powered social platform with real-time chat (Socket.IO), smart user suggestions, dynamic search, and a clean UI using Tailwind CSS + Framer Motion.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikesh123&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh123&theme=tokyonight" width="47%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh123&layout=compact&theme=tokyonight" width="47%"/>
-</p>
+- 🛍️ [**Music-Player**](https://github.com/RUSHIKESH1209/music-player)  
+  A React-based clothing e-commerce app with smooth product browsing, a stylish layout, and modern UI/UX design.
 
 ---
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Stats & Insights
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushikesh123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RUSHIKESH1209&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-### 🔧 GitHub Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Fueled%20by%20Coffee-4B8BBE?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agent-Developer-orange?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIKESH1209&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RUSHIKESH1209&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUSHIKESH1209&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ---
+✨ _Thanks for stopping by! Keep building, keep learning._ 
 
-### ⚡ Fun Fact
-> I once taught an AI agent how to reply with memes. It became... self-aware. 😂
-
----
-
-_Thanks for stopping by! Let's build something legendary!_
