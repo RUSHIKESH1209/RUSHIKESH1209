@@ -8,22 +8,21 @@
 
 ---
 ### 🌐 Connect with me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-chintkuntwar-a74498290/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.instagram.com/rushikesh_1_5/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="40" height="40"/>
   </a>&nbsp;
   <a href="mailto:rushikeshchintkuntwar123456@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.codechef.com/users/rushikesh94" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codechef-a-global-competitive-programming-platform-logo-color-tal-revivo.png" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://leetcode.com/u/rushikeshchintkuntwar123456/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
   </a>
 </p>
 
